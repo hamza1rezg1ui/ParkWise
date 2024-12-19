@@ -1,0 +1,5 @@
+101 Nettoyage intérieur_et_extérieur 28.00
+102 Lavage sous_pression 15.50
+103 Recharge Pour_les_véhicules_électriques 25.00
+104 Détection_de_panne Verification_électronique 125.00
+105 Assistance démarrage 50.00

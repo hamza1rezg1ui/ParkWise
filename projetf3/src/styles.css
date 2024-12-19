@@ -1,0 +1,24 @@
+/* Styles pour la fenêtre principale */
+#mainWindow {
+    background-color: #f4f4f4; /* Gris clair */
+}
+
+/* Style pour le label principal */
+#labelBienvenue {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4CAF50; /* Vert */
+}
+
+/* Style pour les boutons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #45a049; /* Vert plus sombre */
+}
+
