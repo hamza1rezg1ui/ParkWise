@@ -1,0 +1,5 @@
+CIN123456 Dupont Jean jean.dupont@example.com Homme Marié 2 0612345678 8h-16h
+CIN789012 Martin Sophie sophie.martin@example.com Femme Célibataire 2 0698765432 9h-17h
+CIN345678 Durand Luc luc.durand@example.com Homme Divorcé P003 0678901234 10h-18h
+CIN901234 Petit Claire claire.petit@example.com Femme Mariée P004 0612345678 7h-15h
+CIN567890 Lemoine Marc marc.lemoine@example.com Homme Célibataire 2 0698765432 8h-16h
